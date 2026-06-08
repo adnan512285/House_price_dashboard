@@ -638,7 +638,7 @@ with st.sidebar:
 
     st.markdown('<p style="font-size:0.75rem;letter-spacing:0.1em;text-transform:uppercase;color:#8892a4;margin-bottom:8px;">Navigation</p>', unsafe_allow_html=True)
     page = st.radio(
-        label="",
+        label="Navigation",
         options=[
             "🏠  Home",
             "📊  Data Analysis",
